@@ -3,8 +3,8 @@
 mkdir ~/lab1_final
 cd ~/lab1_final
 git init
-git config user.name "Student"
-git config user.email "student@example.com"
+git config user.name "Mark"
+git config user.email "PochtaMarka@gmail.com"
 
 mkdir claude_monet
 mkdir claude_monet/kitchen
