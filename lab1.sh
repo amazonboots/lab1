@@ -133,7 +133,7 @@ rm claude_monet/kitchen/evening_shift/denis_tasks
 rmdir reserve_empty
 rm -r claude_monet/kitchen/evening_shift/morning_backup
 
-git add .
+git add . 
 git commit -m "Коммит 3"
 
 git status
